@@ -94,8 +94,3 @@ This platform connects surplus food donors (hostels, restaurants, events) with N
 - Role-based access for donors vs NGOs
 - Mobile app interface
 - Analytics dashboard: food rescued, impact, etc
-- City-wide/country-wide scaling
-
-
-
-Let me know if you want a PDF or formatted DOC version, or want to customize this for a particular event or audience!
